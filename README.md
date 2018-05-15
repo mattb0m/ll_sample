@@ -1,2 +1,2 @@
 # ll_sample
-Simple linked list sample code in C
+Simple linked list and stack sample code in C, using singly-linked list structures
