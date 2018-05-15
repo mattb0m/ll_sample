@@ -8,11 +8,6 @@
 #include <stdlib.h>
 #include "stack.h"
 
-struct ll_node {
-	void *val;
-	struct ll_node *next;
-};
-
 void stack_init(struct stack *s) {
 	s->head = 0;
 	s->size = 0;

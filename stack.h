@@ -1,7 +1,7 @@
 #ifndef STACK_H
 #define STACK_H
 
-struct ll_node;
+#include "ll.h"
 
 struct stack {
 	struct ll_node *head;
